@@ -1,0 +1,18 @@
+diff --git a/include/DocumentScorer.hpp b/include/DocumentScorer.hpp
+index b5bd55d..cebf66d 100644
+--- a/include/DocumentScorer.hpp
++++ b/include/DocumentScorer.hpp
+@@ -1,5 +1,5 @@
+ #pragma once
+-
++#include <iterator>
+ #include <string>
+ #include <vector>
+ #include <fstream>
+@@ -762,4 +762,4 @@ public:
+             centroids_to_pid.push_back(current_line);
+         }
+     }
+-};
+\ No newline at end of file
++};

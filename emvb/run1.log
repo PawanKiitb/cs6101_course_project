@@ -1,0 +1,180 @@
+Dimension: 128
+Number of queries: 6980
+Vector per query 32
+queries id loaded
+Number of Centroids:  262144
+Total Number of Embeddings: 597909919
+Number of documents: 8841823
+SEARCH STARTED
+Average Elapsed Time per query 91015629
+[Oct 02, 10:46:06] #> Loading QRELs from aux_data/msmarco/qrels.dev.tsv ..
+
+#> Reading aux_data/msmarco/qrels.dev.tsv
+#> Loading ranked lists from m16_results_10.tsv ..
+#> Reading m16_results_10.tsv
+
+#> [WARNING] num_judged_queries != num_ranked_queries
+#> 55578 != 6980
+
+#> Computing MRR@10 for 55578 queries.
+
+#> MRR@10 = 0.04955292347605853
+#> MRR@10 (only for ranked queries) = 0.395
+
+#> Recall@100 = 0.08508162702268283
+#> Recall@100 (only for ranked queries) = 0.677
+
+
+#> Recall@1000 = 0.08508162702268283
+#> Recall@1000 (only for ranked queries) = 0.677
+
+Dimension: 128
+Number of queries: 6980
+Vector per query 32
+queries id loaded
+Number of Centroids:  262144
+Total Number of Embeddings: 597909919
+Number of documents: 8841823
+SEARCH STARTED
+Average Elapsed Time per query 98561954
+[Oct 02, 10:59:23] #> Loading QRELs from aux_data/msmarco/qrels.dev.tsv ..
+
+#> Reading aux_data/msmarco/qrels.dev.tsv
+#> Loading ranked lists from m16_results_100.tsv ..
+#> Reading m16_results_100.tsv
+
+#> [WARNING] num_judged_queries != num_ranked_queries
+#> 55578 != 6980
+
+#> Computing MRR@10 for 55578 queries.
+
+#> MRR@10 = 0.04955652916221846
+#> MRR@10 (only for ranked queries) = 0.395
+
+#> Recall@100 = 0.11393746926241799
+#> Recall@100 (only for ranked queries) = 0.907
+
+
+#> Recall@1000 = 0.11393746926241799
+#> Recall@1000 (only for ranked queries) = 0.907
+
+Dimension: 128
+Number of queries: 6980
+Vector per query 32
+queries id loaded
+Number of Centroids:  262144
+Total Number of Embeddings: 597909919
+Number of documents: 8841823
+SEARCH STARTED
+Average Elapsed Time per query 137266702
+[Oct 02, 11:16:42] #> Loading QRELs from aux_data/msmarco/qrels.dev.tsv ..
+
+#> Reading aux_data/msmarco/qrels.dev.tsv
+#> Loading ranked lists from m16_results_1000.tsv ..
+#> Reading m16_results_1000.tsv
+
+#> [WARNING] num_judged_queries != num_ranked_queries
+#> 55578 != 6980
+
+#> Computing MRR@10 for 55578 queries.
+
+#> MRR@10 = 0.049595499132636126
+#> MRR@10 (only for ranked queries) = 0.395
+
+#> Recall@100 = 0.11466317607686495
+#> Recall@100 (only for ranked queries) = 0.913
+
+
+#> Recall@1000 = 0.12244803099547784
+#> Recall@1000 (only for ranked queries) = 0.975
+
+Dimension: 128
+Number of queries: 6980
+Vector per query 32
+queries id loaded
+Number of Centroids:  262144
+Total Number of Embeddings: 597909919
+Number of documents: 8841823
+SEARCH STARTED
+Average Elapsed Time per query 81679649
+[Oct 02, 11:27:56] #> Loading QRELs from aux_data/msmarco/qrels.dev.tsv ..
+
+#> Reading aux_data/msmarco/qrels.dev.tsv
+#> Loading ranked lists from m32_results_10.tsv ..
+#> Reading m32_results_10.tsv
+
+#> [WARNING] num_judged_queries != num_ranked_queries
+#> 55578 != 6980
+
+#> Computing MRR@10 for 55578 queries.
+
+#> MRR@10 = 0.04987064511651579
+#> MRR@10 (only for ranked queries) = 0.397
+
+#> Recall@100 = 0.08507862823419339
+#> Recall@100 (only for ranked queries) = 0.677
+
+
+#> Recall@1000 = 0.08507862823419339
+#> Recall@1000 (only for ranked queries) = 0.677
+
+Dimension: 128
+Number of queries: 6980
+Vector per query 32
+queries id loaded
+Number of Centroids:  262144
+Total Number of Embeddings: 597909919
+Number of documents: 8841823
+SEARCH STARTED
+Average Elapsed Time per query 104802673
+[Oct 02, 11:42:35] #> Loading QRELs from aux_data/msmarco/qrels.dev.tsv ..
+
+#> Reading aux_data/msmarco/qrels.dev.tsv
+#> Loading ranked lists from m32_results_100.tsv ..
+#> Reading m32_results_100.tsv
+
+#> [WARNING] num_judged_queries != num_ranked_queries
+#> 55578 != 6980
+
+#> Computing MRR@10 for 55578 queries.
+
+#> MRR@10 = 0.049986376932290785
+#> MRR@10 (only for ranked queries) = 0.398
+
+#> Recall@100 = 0.113920975925726
+#> Recall@100 (only for ranked queries) = 0.907
+
+
+#> Recall@1000 = 0.113920975925726
+#> Recall@1000 (only for ranked queries) = 0.907
+
+Dimension: 128
+Number of queries: 6980
+Vector per query 32
+queries id loaded
+Number of Centroids:  262144
+Total Number of Embeddings: 597909919
+Number of documents: 8841823
+SEARCH STARTED
+Average Elapsed Time per query 156798411
+[Oct 02, 12:02:39] #> Loading QRELs from aux_data/msmarco/qrels.dev.tsv ..
+
+#> Reading aux_data/msmarco/qrels.dev.tsv
+#> Loading ranked lists from m32_results_1000.tsv ..
+#> Reading m32_results_1000.tsv
+
+#> [WARNING] num_judged_queries != num_ranked_queries
+#> 55578 != 6980
+
+#> Computing MRR@10 for 55578 queries.
+
+#> MRR@10 = 0.05001963492463331
+#> MRR@10 (only for ranked queries) = 0.398
+
+#> Recall@100 = 0.1147681336739957
+#> Recall@100 (only for ranked queries) = 0.914
+
+
+#> Recall@1000 = 0.12241954250482805
+#> Recall@1000 (only for ranked queries) = 0.975
+
